@@ -1,4 +1,4 @@
-# 🚗 Projeto de análise exploratória de dados utilizando Python e Pandas.
+# 🚀 Projeto de análise exploratória de dados utilizando Python e Pandas.
 
 Olá! Este é um projeto de análise de dados que desenvolvi em aula para explorar como funciona o ecossistema de uma empresa de aluguel de carros, olhando não só para o lucro, mas também para o rastro de carbono que deixamos no caminho.
 
